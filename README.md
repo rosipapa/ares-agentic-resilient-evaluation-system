@@ -29,6 +29,11 @@ The system structurally solves three industry-wide LLM challenges:
 
 ---
 
+## 📄 Experimental Dataset & Test Case
+To validate the framework's semantic precision and resilience under complex compliance scenarios, the architecture was benchmarked using the official **EU AI Act (European AI Law)** document as its core knowledge base. This dense regulatory PDF serves as the ground truth for complex multi-hop queries, structural extraction tests, and adversarial prompt injection stress-testing.
+
+---
+
 ## 🏗️ Architectural Core Pillars
 
 ### 1. Agentic Orchestration via LangGraph
